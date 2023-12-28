@@ -1,0 +1,22 @@
+body{
+    background-color: #326647;
+}
+#container{
+    width: 1200px;
+    height: 900px;
+    background-color: rgb(252, 91, 91);
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+
+}
+#header{
+    padding: 10px;
+    padding-left: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: ;
+}
+a{
+    text-decoration: none;
+}

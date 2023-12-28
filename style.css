@@ -1,0 +1,57 @@
+body{
+    background-color: #326647;
+}
+#container{
+    width: 1200px;
+    height: 900px;
+    background-color: rgb(252, 91, 91);
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+
+}
+#header{
+    padding: 10px;
+    padding-left: 25px;
+ 
+    font-family: Andale Mono, monospace;
+}
+#main
+{
+    padding-left: 25px ;
+}
+h2{
+    font-family: Andale Mono, monospace;
+    font-size: 50px;
+    font-style: italic;
+}
+#main{
+
+}
+li{
+    font-size: 40px;
+    list-style-type: disc;
+    padding: 15px;
+  
+}
+a{
+    text-decoration: none;
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-family: Andale Mono, monospace;
+    
+}
+a:hover{
+    font-size: 50px;
+    transition: 0.8s;
+    background-color: cyan;
+    
+}
+a:visited{
+    color: black;
+}
+a:link{
+    color: black;
+}
